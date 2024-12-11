@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejercicio5</string>
+    <string name="convertir">Convertir</string>
+    <string name="introduce_la_temperatura">Introduce la temperatura</string>
+    <string name="celsius">Celsius</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="conversion_de_temperatura">Conversión de Temperatura</string>
+</resources>
